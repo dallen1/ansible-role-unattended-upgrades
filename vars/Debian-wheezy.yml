@@ -9,3 +9,4 @@
 __unattended_origins_patterns:
   - 'origin=Debian,archive=stable,label=Debian-Security'
   - 'origin=Debian,archive=oldstable,label=Debian-Security'
+  - 'origin=Debian,archive=oldoldstable,label=Debian-Security'
